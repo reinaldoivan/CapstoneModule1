@@ -1,9 +1,9 @@
-# Capstone Module1
+# Capstone Module 1
 Python Application Project
 
 Study Case: Academic Scores - Data Nilai Siswa
 
-# List Data
+### List Data
 List Data Mahasiswa:  
 1.NIM (field unik)  
 2.Nama  
@@ -28,5 +28,5 @@ C: 1.70 - 2.69
 D: 1.00 - 1.69  
 E: < 1.00  
 
-# Additional Links
+### Additional Links
 Link Video Penjelasan: https://drive.google.com/file/d/1rWOjkC3cEXFz5YhoPE3RXm1masaJxn0V/view?usp=sharing
