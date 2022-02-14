@@ -1,19 +1,18 @@
-# CapstoneModule1
+# Capstone Module1
 Python Application Project
 
 Study Case: Academic Scores - Data Nilai Siswa
 
-LIST DATA
-=========
-List Data Mahasiswa:
-1. NIM (field unik)
-2. Nama
-3. Gender
-4. Fakultas
-5. Tahun
-6. IPK
-7. Grade
-8. Shown
+# List Data
+List Data Mahasiswa:  
+1.NIM (field unik)  
+2.Nama  
+3.Gender  
+4.Fakultas  
+5.Tahun  
+6.IPK  
+7.Grade  
+8.Shown  
 
 List Kode Fakultas:  
 01: Teknik  
@@ -29,6 +28,5 @@ C: 1.70 - 2.69
 D: 1.00 - 1.69  
 E: < 1.00  
 
-ADDITIONAL LINKS
-================
+# Additional Links
 Link Video Penjelasan: https://drive.google.com/file/d/1rWOjkC3cEXFz5YhoPE3RXm1masaJxn0V/view?usp=sharing
