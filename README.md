@@ -15,19 +15,19 @@ List Data Mahasiswa:
 7. Grade
 8. Shown
 
-List Kode Fakultas:
-01: Teknik
-02: Ekonomi
-03: Desain
-04: Bisnis
-05: Humaniora
+List Kode Fakultas:  
+01: Teknik  
+02: Ekonomi  
+03: Desain  
+04: Bisnis  
+05: Humaniora  
 
-List Grade berdasarkan IPK
-A: 3.30 - 4.00
-B: 2.70 - 3.29
-C: 1.70 - 2.69
-D: 1.00 - 1.69
-E: < 1.00
+List Grade berdasarkan IPK  
+A: 3.30 - 4.00  
+B: 2.70 - 3.29  
+C: 1.70 - 2.69  
+D: 1.00 - 1.69  
+E: < 1.00  
 
 ADDITIONAL LINKS
 ================
