@@ -39,4 +39,4 @@ List Data
 
 Additional Links
 ----------------
-Link Video Penjelasan: https://drive.google.com/file/d/1rWOjkC3cEXFz5YhoPE3RXm1masaJxn0V/view?usp=sharing
+Link Video Penjelasan & Screenshots Aplikasi: https://drive.google.com/drive/folders/1O4_r35Ed6kLEwJnbekmXlcGKHQReAX9g?usp=sharing
