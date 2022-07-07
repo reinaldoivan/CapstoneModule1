@@ -1,5 +1,7 @@
-# Capstone Module 1
-**Python Application Project**
+# Student Database Python Application
+**Student Database Managing Application**
+
+*Associated with Purwadhika Coding School for Module 1 Capstone Project*
 
 **Study Case: Academic Scores - Data Nilai Siswa**
 
